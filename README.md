@@ -2,7 +2,7 @@
   <img src="https://github.com/dylangit01/dylangit01/blob/main/hello.gif?raw=true" width="80%">
 </p>
 
-### 👋 Hi there, I'm [Dylan](https://dylan-du-portfolio.netlify.app), a former Senior Data Analyst turned Full Stack Web Developer. I dedicated myself to building and optimizing user-focused websites for customers with various business objectives.
+#### 👋 Hi there, I'm [Dylan](https://dylan-du-portfolio.netlify.app), a former Senior Data Analyst turned Full Stack Web Developer. I dedicated myself to building and optimizing user-focused websites for customers with various business objectives.
 
 <a href="https://resume.creddle.io/resume/9jejw9dyw6f"><img alt="Resume" src="https://img.shields.io/badge/-Resume-DA0037?style=flat&logo=giphy&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dylan-du/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
