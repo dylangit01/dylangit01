@@ -1,9 +1,9 @@
 # 👋 Hi there
-I'm [Dylan](https://dylan-du-portfolio.netlify.app), a former Senior Data Analyst turned Full Stack Web Developer. I dedicated myself to building and optimizing user-focused websites for customers with various business objectives. Target to improve website performance, minimize system downtime and quickly respond to business needs.
+I'm [Dylan](https://dylan-du-portfolio.netlify.app), a former Senior Data Analyst turned Full Stack Web Developer. I dedicated myself to building and optimizing user-focused websites for customers with various business objectives.
 
-<a href="https://resume.creddle.io/resume/9jejw9dyw6f"><img alt="Resume" src="https://img.shields.io/badge/-Resume-00EAD3?style=flat&logo=giphy&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/helenouyang/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://angel.co/u/helen-ouyang"><img alt="AngelList" src="https://img.shields.io/badge/-AngelList-000000?style=flat&logo=angellist&logoColor=white" /></a>
+<a href="https://resume.creddle.io/resume/9jejw9dyw6f"><img alt="Resume" src="https://img.shields.io/badge/-Resume-DA0037?style=flat&logo=giphy&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dylan-du/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://dylan-du-portfolio.netlify.app/"><img alt="portfolio" src="https://img.shields.io/badge/-AngelList-3EDBF0?style=flat&logo=angellist&logoColor=white" /></a>
 
 ## 💻 Tools I use
 
