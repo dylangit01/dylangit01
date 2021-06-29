@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dylangit01/dylangit01/blob/main/hello.gif?raw=true" width="80%">
+  <img src="https://github.com/dylangit01/dylangit01/blob/main/hello.gif?raw=true" width="100%">
 </p>
 
 #### 👋 &nbsp; Hi there, I'm [Dylan](https://dylan-du-portfolio.netlify.app), a former Senior Data Analyst turned Full Stack Web Developer. I dedicated myself to building and optimizing user-focused websites for customers with various business objectives.
